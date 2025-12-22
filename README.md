@@ -2,7 +2,7 @@
 
 
 Hi, I'm Cheon Yubin.<br>
-Currently studying at Hongik University.<br>  
+Currently studying at Hongik University.<br>
 I'm passionate about data analysis and data quality management.<br>
   
   
